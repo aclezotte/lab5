@@ -13,13 +13,13 @@ h1 {
     font-weight: bold;
 }
 
-nav li {
+#simpleNav li {
     list-style: none;
     margin: 5%;
     width: 100%;
 }
 
-nav a {
+#simpleNav a {
     width: 80%;
     display: block;
     background-color: #B3B8E0;
@@ -45,7 +45,7 @@ nav a {
     color: black;
 }
 
-.articles img {
+img {
     margin-right: 2%;
     height: 20%;
     width: 20%;
